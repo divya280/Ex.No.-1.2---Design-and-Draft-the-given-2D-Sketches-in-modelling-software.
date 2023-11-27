@@ -36,7 +36,8 @@
  ![image](https://user-images.githubusercontent.com/113594316/198233336-dd9f5c19-481b-486a-928a-99c32a732f89.png)
 
  ## OUTPUT
-![image](https://github.com/divya280/Ex.No.-1.2---Design-and-Draft-the-given-2D-Sketches-in-modelling-software./assets/82276099/c37f7fe7-c306-4b43-b189-1b8ddb403afa)
+![image](https://github.com/divya280/Ex.No.-1.2---Design-and-Draft-the-given-2D-Sketches-in-modelling-software./assets/82276099/a52c65fd-da41-450d-8485-85b86cd00603)
+
  
  
  ## RESULT
